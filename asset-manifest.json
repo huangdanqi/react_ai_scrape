@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_ai_scrape/static/css/main.f855e6bc.css",
+    "main.js": "/react_ai_scrape/static/js/main.38a41ed1.js",
+    "index.html": "/react_ai_scrape/index.html",
+    "main.f855e6bc.css.map": "/react_ai_scrape/static/css/main.f855e6bc.css.map",
+    "main.38a41ed1.js.map": "/react_ai_scrape/static/js/main.38a41ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.38a41ed1.js"
+  ]
+}
